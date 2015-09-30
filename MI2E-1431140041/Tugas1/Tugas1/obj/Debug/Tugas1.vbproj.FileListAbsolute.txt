@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
